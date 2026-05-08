@@ -34,3 +34,6 @@ https://www.kaggle.com/datasets/kanyianalyst/car-evaluation-dataset?select=car+e
 1. The dataset was well structured with no missing values, making preprocessing straightforward and allowing more focus on model tuning and evaluation.
 2. Both the Decision Tree and Random Forest models achieved above 98% accuracy, confirming strong usability across both approaches.
 3. Precision, recall, and F1-score remained consistently high across all four acceptability classes, suggesting both models generalize well rather than overfitting to the training data.
+
+## Project Report
+For a full breakdown of the analysis and findings, see the [Project Report](Car_Eval_Classification/report/car_eval_class_report.pdf)
